@@ -4,7 +4,7 @@
   ],
   "description": "Tools for voicechannels. \n - Automated voicechannel creation \n - Private voicechannels \n - Private textchannels",
   "hidden": false,
-  "install_msg": "Thanks for using roomer. Check out all settings in `[p]roomer`.",
+  "install_msg": "Das Plugin Roomer wurde dem Bot hinzugefügt. Mit dem Befehl `[p]roomer` kannst das ganze Einstellen.",
   "short": "Tools for voicechannels NEW: Private Text channels",
   "tags": [
     "members",
